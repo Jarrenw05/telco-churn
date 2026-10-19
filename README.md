@@ -82,4 +82,4 @@ I picked the 0.35 threshold using cross-validation on the training data only. Th
 
 - Libraries: scikit-learn, pandas, NumPy, and Matplotlib
 - Data: IBM Telco Customer Churn sample dataset (Macko, 2019)
-- AI help: I used Claude (an AI assistant from Anthropic) to help write parts of the notebook code (the cross-validation step, the decision tree and gradient boosting comparison, Figure 2, the cost comparison, and the example customers), to write this README and the requirements file, and to check my paper for errors. My instructor said this was okay. The project idea, the design, the original notebook, and the paper are mine.
+- AI help: I used Claude to assist with proofreading , improving clarity, and organizing the setup instructions and execution steps in my README file.
